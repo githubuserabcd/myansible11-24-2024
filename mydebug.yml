@@ -7,4 +7,4 @@
     register: myfirsttaskresult 
   - name: i want to debug myfirsttaskresult
     dubug: 
-    msg: "{{myfirsttaskresult}}"
+      msg: "{{myfirsttaskresult}}"
