@@ -6,3 +6,9 @@
 
 [myAppservers]
 10.1.0.7
+
+
+
+[mywebservers:vars]
+ var01= value
+ mywebpackonubuntu= apache2
