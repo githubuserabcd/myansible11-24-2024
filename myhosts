@@ -1,2 +1,8 @@
 [mywebservers]
 10.1.0.5
+
+[myDBservers]
+10.1.0.6
+
+[myAppservers]
+10.1.0.7
