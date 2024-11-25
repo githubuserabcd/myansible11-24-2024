@@ -9,6 +9,5 @@
       dest: /home/maha/mycopyfile
   - name: install webserver
     apt:
-     name: apache2
-     state: prsent 
-     
+      name: apache2
+      state: persent 
